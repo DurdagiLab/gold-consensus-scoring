@@ -1,13 +1,13 @@
 """
-##########################################################################################
+############################################################################################################################
 Title: Consensus Scoring and Filtering of GOLD Docking Results
 
 Author: Dr. Mine Isaoglu  
 Principal Investigator: Prof. Dr. Serdar Durdagi  
-Affiliation: Computational Drug Design Center (HITMER),  
-             Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey  
+Affiliation: Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey  
+             
 Version: December 2024 
-##########################################################################################
+############################################################################################################################
 """
 
 import sys
