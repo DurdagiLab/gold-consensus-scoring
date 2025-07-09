@@ -21,7 +21,7 @@ Required Python version
 
 Dependencies:
 - `pandas`  
-- `matplotlib` *(optional – for visualization only)*
+- `matplotlib` *(optional - for visualization only)*
 
 You can install the required libraries using pip:
 
