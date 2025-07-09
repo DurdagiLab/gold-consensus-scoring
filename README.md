@@ -7,7 +7,7 @@ The scoring protocol is based on retrospective analysis and incorporates the fol
 
 1. **Input parsing** - Reads the user-supplied GOLD CSV output.  
 2. **Data cleaning** - Retains only ligands with positive scores in both PLP and Goldscore fields.  
-3. **Min–max normalisation** - Scales each scoring function independently to the [0, 1] range.  
+3. **Min-max normalisation** - Scales each scoring function independently to the [0, 1] range.  
 4. **Consensus scoring** - Computes an aggregated score using the formula:  
    **Consensus = 0.60 × PLP + 0.40 × Goldscore**  
 5. **Filtering** - Extracts ligands with consensus scores ≥ 0.50 by default.
