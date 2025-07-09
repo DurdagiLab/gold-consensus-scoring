@@ -45,4 +45,4 @@ To run the script, execute the following command from the terminal, providing th
 # Citation
 If you use this tool in your research or publication, please cite it as follows:
 
-Isaoğlu, M., & Durdağı, S. (2025). Consensus Scoring Tool for GOLD Docking (Version 1.0) [Computer software]. Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University. https://github.com/DurdagiLab/gold-consensus-scoring
+Isaoğlu, M., & Durdağı, S. (2025). Consensus Scoring Tool for GOLD Docking (Version 1.0) [Computer software]. https://github.com/DurdagiLab/gold-consensus-scoring
