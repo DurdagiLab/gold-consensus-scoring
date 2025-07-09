@@ -1,4 +1,4 @@
-# consensus-scoring-gold
+# GOLD Consensus Scoring
 This script implements a consensus scoring strategy to prioritize ligands based on docking results obtained from the **GOLD molecular docking software**. It combines two scoring functions - **PLP.Fitness** and **Goldscore.Fitness** - to generate a weighted consensus score and filters molecules exceeding a defined threshold.
 
 # Description
@@ -44,4 +44,4 @@ To run the script, execute the following command from the terminal, providing th
 # Citation
 If you use this tool in your academic work, please cite:
 
-Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey
+Isaoğlu, M., & Durdağı, S. (2025). GOLD Consensus Scoring (Version 1.0) [Computer software]. Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University. https://github.com/DurdagiLab/gold-consensus-scoring
